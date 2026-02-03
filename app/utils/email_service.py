@@ -2,7 +2,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 SMTP_EMAIL = "autispectra@gmail.com"
-SMTP_PASSWORD = "vctbsvcnuryrkozu"
+SMTP_PASSWORD = "ashatcoedeeqgwjt"
 
 def send_verification_email(to_email: str, code: str):
     subject = "Your Password Reset Code"
